@@ -1,0 +1,4 @@
+﻿3
+Book|King|Nice Title|12/01/2000|Some publisher
+Paper|King jr.|Nice paprer title|321|Great journal|12/01/2000
+EResources|Queen|How to stuff|www.link.xd|very nice guide helped to stuff

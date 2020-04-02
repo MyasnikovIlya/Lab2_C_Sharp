@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Source xsi:type="Book">
+    <author>King</author>
+    <title>Nice Title</title>
+    <date>2000-01-12T00:00:00</date>
+    <publisher>Some publisher</publisher>
+  </Source>
+  <Source xsi:type="Paper">
+    <author>King jr.</author>
+    <title>Nice paprer title</title>
+    <id>321</id>
+    <journalTitle>Great journal</journalTitle>
+    <date>2000-01-12T00:00:00</date>
+  </Source>
+  <Source xsi:type="EResources">
+    <author>Queen</author>
+    <title>How to stuff</title>
+    <url>www.link.xd</url>
+    <annotation>very nice guide helped to stuff</annotation>
+  </Source>
+</ArrayOfSource>
